@@ -1,6 +1,6 @@
 # Gestor-Universitario
 
-<h5>Funcionalidades do Gestor</h5>
+<h3><em><strong>Funcionalidades do Gestor</strong></em></h3>
 <p></p>
 <ol><li>Aplicar provas e tarefas</li>
   <li>Realizar provas e tarefas</li>
